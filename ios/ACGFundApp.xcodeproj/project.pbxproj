@@ -12,15 +12,15 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		21127AF3B178415E83B81F37 /* Geist-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8499D0A982B84262810F8091 /* Geist-SemiBold.ttf */; };
+		2831F39CFEEB4677BA00A16A /* GeistMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D75A9115D36147779DEF606F /* GeistMono-Regular.ttf */; };
+		3229B0791C6741849DDA27D2 /* Geist-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4C463D9BC9B46F9B4023BD8 /* Geist-Regular.ttf */; };
+		5524FDAE35E1498FAAA37E25 /* GeistMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1F3FEF4B34C143FFA438AC78 /* GeistMono-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-ACGFundApp-ACGFundAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-ACGFundApp-ACGFundAppTests.a */; };
+		78D1E7C9E4FE4262858C94FF /* GeistMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6D04A09881B846BDABAEEFC2 /* GeistMono-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8726595627494057BBDEF4B0 /* Geist-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5FCE04FE557A4525A9CCBA78 /* Geist-Bold.ttf */; };
 		E90ECE461EEA4F3D96A08733 /* Geist-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A0ADB8096B842F1A106E53E /* Geist-Medium.ttf */; };
-		3229B0791C6741849DDA27D2 /* Geist-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4C463D9BC9B46F9B4023BD8 /* Geist-Regular.ttf */; };
-		21127AF3B178415E83B81F37 /* Geist-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8499D0A982B84262810F8091 /* Geist-SemiBold.ttf */; };
-		5524FDAE35E1498FAAA37E25 /* GeistMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1F3FEF4B34C143FFA438AC78 /* GeistMono-Bold.ttf */; };
-		78D1E7C9E4FE4262858C94FF /* GeistMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6D04A09881B846BDABAEEFC2 /* GeistMono-Medium.ttf */; };
-		2831F39CFEEB4677BA00A16A /* GeistMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D75A9115D36147779DEF606F /* GeistMono-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,20 +44,20 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ACGFundApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ACGFundApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-ACGFundApp-ACGFundAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ACGFundApp-ACGFundAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F3FEF4B34C143FFA438AC78 /* GeistMono-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GeistMono-Bold.ttf"; path = "../assets/fonts/GeistMono-Bold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-ACGFundApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACGFundApp.debug.xcconfig"; path = "Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-ACGFundApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACGFundApp.release.xcconfig"; path = "Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp.release.xcconfig"; sourceTree = "<group>"; };
+		5A0ADB8096B842F1A106E53E /* Geist-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Geist-Medium.ttf"; path = "../assets/fonts/Geist-Medium.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-ACGFundApp-ACGFundAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACGFundApp-ACGFundAppTests.debug.xcconfig"; path = "Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-ACGFundApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ACGFundApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FCE04FE557A4525A9CCBA78 /* Geist-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Geist-Bold.ttf"; path = "../assets/fonts/Geist-Bold.ttf"; sourceTree = "<group>"; };
+		6D04A09881B846BDABAEEFC2 /* GeistMono-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GeistMono-Medium.ttf"; path = "../assets/fonts/GeistMono-Medium.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ACGFundApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8499D0A982B84262810F8091 /* Geist-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Geist-SemiBold.ttf"; path = "../assets/fonts/Geist-SemiBold.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-ACGFundApp-ACGFundAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ACGFundApp-ACGFundAppTests.release.xcconfig"; path = "Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		C4C463D9BC9B46F9B4023BD8 /* Geist-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Geist-Regular.ttf"; path = "../assets/fonts/Geist-Regular.ttf"; sourceTree = "<group>"; };
+		D75A9115D36147779DEF606F /* GeistMono-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GeistMono-Regular.ttf"; path = "../assets/fonts/GeistMono-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		5FCE04FE557A4525A9CCBA78 /* Geist-Bold.ttf */ = {isa = PBXFileReference; name = "Geist-Bold.ttf"; path = "../assets/fonts/Geist-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5A0ADB8096B842F1A106E53E /* Geist-Medium.ttf */ = {isa = PBXFileReference; name = "Geist-Medium.ttf"; path = "../assets/fonts/Geist-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C4C463D9BC9B46F9B4023BD8 /* Geist-Regular.ttf */ = {isa = PBXFileReference; name = "Geist-Regular.ttf"; path = "../assets/fonts/Geist-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		8499D0A982B84262810F8091 /* Geist-SemiBold.ttf */ = {isa = PBXFileReference; name = "Geist-SemiBold.ttf"; path = "../assets/fonts/Geist-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		1F3FEF4B34C143FFA438AC78 /* GeistMono-Bold.ttf */ = {isa = PBXFileReference; name = "GeistMono-Bold.ttf"; path = "../assets/fonts/GeistMono-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6D04A09881B846BDABAEEFC2 /* GeistMono-Medium.ttf */ = {isa = PBXFileReference; name = "GeistMono-Medium.ttf"; path = "../assets/fonts/GeistMono-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D75A9115D36147779DEF606F /* GeistMono-Regular.ttf */ = {isa = PBXFileReference; name = "GeistMono-Regular.ttf"; path = "../assets/fonts/GeistMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,7 +164,7 @@
 			sourceTree = "<group>";
 		};
 		CBD0AD3F963A47C198B5274C /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				5FCE04FE557A4525A9CCBA78 /* Geist-Bold.ttf */,
 				5A0ADB8096B842F1A106E53E /* Geist-Medium.ttf */,
@@ -176,7 +176,6 @@
 			);
 			name = Resources;
 			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -311,9 +310,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -372,9 +375,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -389,9 +396,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp/Pods-ACGFundApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -406,9 +417,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ACGFundApp-ACGFundAppTests/Pods-ACGFundApp-ACGFundAppTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -523,6 +538,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74FF5UP8PZ;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ACGFundApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -550,6 +566,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 74FF5UP8PZ;
 				INFOPLIST_FILE = ACGFundApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -601,7 +618,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -635,6 +652,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -672,7 +690,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -698,6 +716,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};

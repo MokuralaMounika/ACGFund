@@ -12,5 +12,5 @@ export default function StatementsScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 18 },
-  title: { fontSize: 20, fontFamily: 'Geist', color: '#0B2E4F', fontWeight: '700' },
+  title: { fontSize: 20, fontFamily: 'Geist-Bold', color: '#0B2E4F', fontWeight: '700' },
 });

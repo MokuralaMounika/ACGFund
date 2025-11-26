@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     marginTop: 5,
     color: '#0B2E4F',
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-Bold',
   },
 
   subtitle: {
@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
     color: '#666',
     marginBottom: 25,
     textAlign: 'center',
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-Regular',
   },
 
   label: {
@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
     fontWeight: '500',
     color: '#000',
     marginBottom: 5,
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-Medium',
   },
 
   input: {
@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
     padding: 11,
     marginBottom: 18,
     backgroundColor: '#F3F6FA',
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-Regular',
   },
 
   passwordContainer: {
@@ -199,13 +199,13 @@ const styles = StyleSheet.create({
   remember: {
     fontSize: 14,
     color: '#333',
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-Regular',
   },
 
   forgot: {
     fontSize: 14,
     color: '#7A1E1E',
-    fontFamily: 'GeistMono',
+    fontFamily: 'GeistMono-Regular',
   },
 
   loginBtn: {
@@ -220,6 +220,6 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 16,
     fontWeight: '600',
-    fontFamily: 'Geist',
+    fontFamily: 'Geist-SemiBold',
   },
 });

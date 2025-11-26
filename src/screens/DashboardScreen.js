@@ -39,7 +39,7 @@ export default function DashboardScreen({ route, navigation }) {
       ),
       headerTitle: () => (
         <View>
-          <Text style={{ color: "#fff", fontSize: 18, fontFamily: "Geist" }}>
+          <Text style={{ color: "#fff", fontSize: 18, fontFamily: "Geist-Regular" }}>
             Dashboard
           </Text>
         </View>
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "700",
     color: "#0B2E4F",
-    fontFamily: "Geist",
+    fontFamily: "Geist-Bold",
     marginBottom: 18,
   },
 
@@ -131,6 +131,6 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: "600",
     color: "#0B2E4F",
-    fontFamily: "Geist",
+    fontFamily: "Geist-SemiBold",
   },
 });

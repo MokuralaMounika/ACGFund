@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     color: "#0B2E4F",
     textAlign: "center",
-    fontFamily: "Geist",
+    fontFamily: "Geist-Bold",
   },
 
   sectionTitle: {
@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     color: "#0B2E4F",
     textAlign: "center",
-    fontFamily: "Geist",
+    fontFamily: "Geist-Bold",
   },
 
   roleText: {
@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
     color: "#7A8CA5",
     textAlign: "center",
     marginBottom: 15,
-    fontFamily: "Geist",
+    fontFamily: "Geist-Regular",
   },
 
   separator: {
